@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirstAndroidProjectInGithub</string>
+    <string name="app_nameInDevelopeBranch">I am from develope branch</string>
 </resources>
